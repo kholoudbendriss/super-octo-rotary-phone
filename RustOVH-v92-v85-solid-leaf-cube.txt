@@ -1,0 +1,5 @@
+RustOVH v92; base v85 + user block textures.
+Ferns and leaves use a closed 16x16x16 cube with an opaque core, without protruding crossed planes.
+Explicit item models for fern/double fern and six leaves variants; head scale1.6 compensates vanilla LayerCustomHead0.625 on a normal adult ArmorStand.
+Unrelated v85 models, menus and sounds preserved.
+SHA1: be1863bc3df6ea8cf89f423a96a0a8c4fd0c7c39
